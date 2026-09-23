@@ -37,7 +37,7 @@ Pastaj hapni `index.html` në shfletues.
 
 ## Licenca
 
-Ky projekt është i licencuar nën [Licencën MIT](LICENSE). Autori: Erion Nezha.
+Të gjitha të drejtat e rezervuara © 2026 Erion Nezha. Autori: Erion Nezha.
 
 ---
 
@@ -74,4 +74,4 @@ Then open `index.html` in your browser.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Author: Erion Nezha.
+All rights reserved © 2026 Erion Nezha. Author: Erion Nezha.
