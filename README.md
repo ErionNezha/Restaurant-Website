@@ -31,8 +31,8 @@ Pastaj hapni `index.html` në shfletues.
 
 ## Kontakti
 
-- Telefoni: +355 699 552 080
-- E-mail: erjonnezhaa@gmail.com
+- Telefoni: +355 6XX XXX XXX
+- E-mail: shembull@example.com
 - Adresa: Tiranë, Shqipëri
 
 ## Licenca
