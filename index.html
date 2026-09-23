@@ -179,14 +179,16 @@
             <div class="form-container">
                 <h2>Na Kontaktoni</h2>
                 <div class="contact-info">
-                    <p><i class="fas fa-phone"></i> +355 699 552 080</p>
-                    <p><i class="fas fa-envelope"></i> erjonnezhaa@gmail.com</p>
+                    <p><i class="fas fa-phone"></i> +355 6XX XXX XXX</p>
+                    <p><i class="fas fa-envelope"></i> shembull@example.com</p>
                     <p><i class="fas fa-map-marker-alt"></i> Tiranë, Shqipëri</p>
                 </div>
-                <input type="text" placeholder="Emri Juaj" />
-                <input type="email" placeholder="E-mail" />
-                <textarea cols="30" rows="6" placeholder="Shkruani Mesazhin Tuaj"></textarea>
-                <a href="#" class="btn btn-primary">Dërgo</a>
+                <form action="mailto:shembull@example.com" method="post" enctype="text/plain">
+                    <input type="text" name="Emri" placeholder="Emri Juaj" />
+                    <input type="email" name="Email" placeholder="E-mail" />
+                    <textarea name="Mesazhi" cols="30" rows="6" placeholder="Shkruani Mesazhin Tuaj"></textarea>
+                    <button type="submit" class="btn btn-primary">Dërgo</button>
+                </form>
             </div>
         </div>
     </section>
